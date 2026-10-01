@@ -251,4 +251,4 @@ This repository serves as the official landing page for Zombie.io. The software 
 **Get the most recent version of Zombie.io today!**
 
 ---
-**Last updated:** 2026-09-30 20:41:46 UTC
+**Last updated:** 2026-10-01 00:26:34 UTC
